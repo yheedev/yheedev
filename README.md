@@ -20,5 +20,5 @@ React, Next.js를 주로 사용하는 웹 개발자입니다. 재미있고 유�
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=yheedev&show_icons=true&theme=dark" alt="깃허브 스탯" height="150" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=yheedev&theme=merko&hide_border=true&border_radius=4.8&locale=ko&date_format=%5BY.%5Dn.j&hide_longest_streak=true)](https://git.io/streak-stats" alt="깃허브 연속 기여" height="150" />
+  <img src="https://streak-stats.demolab.com?user=yheedev&theme=merko&locale=ko&hide_longest_streak=true" alt="깃허브 연속 기여" height="150" />
 </p>
