@@ -7,7 +7,7 @@ I’m a passionate web developer with React and Next.js, and interested in creat
 ## Contact
 
 - Email: yheedev@gmail.com
-- 블로그: [https://yheedev.vercel.app/](https://yheedev.vercel.app/)
+- Blog: [https://yheedev.vercel.app/](https://yheedev.vercel.app/)
 - Discord: kidcatlover
 
 ## Project
