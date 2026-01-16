@@ -9,6 +9,7 @@ I’m a passionate web developer with React and Next.js, and interested in creat
 - Email: yheedev@gmail.com
 - Blog: [https://yheedev.vercel.app/](https://yheedev.vercel.app/)
 - Discord: kidcatlover
+- Buy me a coffee: https://buymeacoffee.com/yheedev
 
 ## Project
 
