@@ -9,6 +9,7 @@
 - メール: yheedev@gmail.com
 - ブログ: [https://yheedev.vercel.app/](https://yheedev.vercel.app/)
 - ディスコード: kidcatlover
+- Buy me a coffee: https://buymeacoffee.com/yheedev
 
 ## Project
 
